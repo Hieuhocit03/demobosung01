@@ -1,0 +1,7 @@
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\bin\Debug\Lab01-02.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\bin\Debug\Lab01-02.exe
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\bin\Debug\Lab01-02.pdb
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\obj\Debug\Lab01-02.exe
+C:\Users\ADMIN\OneDrive\Desktop\Lab Git\Lab01\Lab01-02\obj\Debug\Lab01-02.pdb
